@@ -12,3 +12,9 @@ build/
 .idea/
 *.swp
 *~
+.gitpod.yml
+README.md
+setup.cfg
+flaskr
+test
+instance
