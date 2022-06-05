@@ -14,6 +14,6 @@ b = input('enter number b=')
 compareFuction(a, b)
 
 
-# command S saves
+# press command + S to save file
 
 
