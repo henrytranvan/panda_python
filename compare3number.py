@@ -15,6 +15,6 @@ a = input('enter number a = ')
 b = input('enter number b = ')
 c = input('enter number c = ')
 # Call the function with real variable values input from user, function will run.
-max = compare3NumberFuction(a, b, c)
+max1 = compare3NumberFuction(a, b, c)
 
-print('biggest number is ' + max)
+print('biggest number is ' + max1)
