@@ -13,3 +13,12 @@
 4. Write a program.
    - Get input the radius of the circle. (a)
    - Print to the screen its area and perimeter
+      
+5. Write a program.
+   - Get input 4 number a, b, c and
+   - Print out Which number is the biggest?
+   
+5. Write a program.
+   - Get input a number
+   - Print out multiplication table
+   EX: if user enter numer 5 then print out multiplication table
