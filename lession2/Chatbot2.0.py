@@ -30,8 +30,9 @@ if UserInput == 'Hi' :
   print('ChatBot1: Hi')
   UserInput = input('You: ') 
 if UserInput == "quit":
-  print("Chatbot: goodbye")
-  quit("Chatbot left")
+  print('Ok ')
+  while True:
+    print('Goodbye')
 if UserInput == "what version is it?":
   print("ChatBot: version 4.5 beta dev spot has closed.")
   UserInput = input('You: ')
@@ -50,8 +51,6 @@ if UserInput == 'Your not real':
 if UserInput == 'But really why?':
   print('Chatbot: I get it Stop asking or else...')
   UserInput = input('Crazy guy: ') 
-if UserInput == 'Sorry':
-    print('Chatbot: It is okay!')
-    UserInput = input('Sorryman: ')
+
 
   
