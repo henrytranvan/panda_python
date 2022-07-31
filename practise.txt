@@ -26,3 +26,9 @@
 6. Write a program. 
    - Get input a number n
    - print even numer from 1 to n
+
+
+7. Write a program. 
+   - Get input a number n
+   - Print total even
+   - Print total odd number
