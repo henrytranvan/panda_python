@@ -32,3 +32,9 @@
    - Get input a number n
    - Print total even
    - Print total odd number
+   
+8. Write a program. 
+   - Get input a number n from user
+   - Print all event number from 1 to n
+   - Print all odd number from 1 to n
+   
